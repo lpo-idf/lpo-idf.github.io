@@ -6,10 +6,41 @@
     <description>Recent content on Universal</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-FR</language>
-    <lastBuildDate>Sat, 10 Oct 2015 13:07:31 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 03 Sep 2019 14:29:56 +0200</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Éducation à la nature</title>
+      <link>/%C3%A9ducation/</link>
+      <pubDate>Tue, 03 Sep 2019 14:29:56 +0200</pubDate>
+      
+      <guid>/%C3%A9ducation/</guid>
+      <description>La LPO Île-de-France intègre l&amp;rsquo;éducation à la nature au cœur même de ses préoccupations et faire ainsi des actions de sensibilisation, de formation, d&amp;rsquo;éducation et de communication, une dimension permanente de son action à côté des activités d&amp;rsquo;études ornithologiques.
+Contexte Encore négligés voilà une trentaine d&amp;rsquo;années, les problèmes environnementaux sont désormais devenus un enjeu politique majeur du fait de leurs croissances. Depuis dix ans, ils ont placé l&amp;rsquo;éducation à l&amp;rsquo;environnement sur le devant de la scène, participant ainsi à la prise de conscience de l&amp;rsquo;opinion publique.</description>
+    </item>
+    
+    <item>
+      <title>Connaissance</title>
+      <link>/connaissance/</link>
+      <pubDate>Tue, 03 Sep 2019 14:26:40 +0200</pubDate>
+      
+      <guid>/connaissance/</guid>
+      <description> Les enquêtes naturalistes La LPO Île-de-France est tout naturellement l&amp;rsquo;interlocuteur régional lors d&amp;rsquo;enquêtes nationales ornithologiques.
+Les principales enquêtes en cours sont :
+ le programme STOC-EPS les comptages Wetlands international l’atlas national des oiseaux nicheurs, avec sa déclinaison régionale l&amp;rsquo;atlas ornithologique du Grand Paris  </description>
+    </item>
+    
+    <item>
+      <title>Les actions de protection de la biodiversité</title>
+      <link>/protection/</link>
+      <pubDate>Tue, 03 Sep 2019 13:59:30 +0200</pubDate>
+      
+      <guid>/protection/</guid>
+      <description>En Île-de-France, la LPO agit au quotidien pour la protection des espèces et de leurs habitats, en sensibilisant les partenaires publics, privés ou associatifs dans la préservation de la faune et de la flore sauvages au travers d’études et de diagnostics :
+ en contribuant à la prise en compte des exigences écologiques des espèces dans les projets d’aménagement du territoire ou les pratiques de gestion ; en participant à la valorisation du patrimoine naturel à travers la conception de plaquettes ou de panneaux d’interprétation ; en accompagnant les partenaires publics, privés ou associatifs dans la mise en place et le suivi de dispositifs de nichoirs dans les espaces verts ou sur le bâti ; en contribuant à valoriser et protéger la nature de proximité au travers de son réseau de Refuges LPO ; en conseillant les acteurs publics ou privés et les particuliers sur les problématiques de cohabitation avec les oiseaux.</description>
+    </item>
     
     <item>
       <title>Migrate from Jekyll</title>
